@@ -14,13 +14,13 @@ session_start();
   <link rel="stylesheet" href="css/escolha.css">
 </head>
 <body>
-  <?php if (isset($_GET['imagem']) && !empty($_GET['imagem'])): ?>
+  <?php if (isset($_POST['imagem']) && !empty($_POST['imagem'])): ?>
     <div id="img_div">
-      <img src="<?php echo $_GET['imagem'] ?>">
+      <img src="<?php echo $_POST['imagem'] ?>">
     </div>
   <?php endif ?>
   <div id="texto">
-    <h2><a id="resposta" href="sala.php"><?php echo $_GET['resposta'] ?></a></h2>
+    <h2><a id="resposta" href="sala.php" onclick="<?php $_SESSION['respondeu'] = 1 ?>"><?php echo $_POST['resposta'] ?></a></h2>
   </div>
 </body>
 </html>

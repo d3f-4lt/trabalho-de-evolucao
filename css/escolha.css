@@ -60,3 +60,7 @@ img {
   width: auto;
   height: 100%;
 }
+
+#form {
+  display: none;
+}
