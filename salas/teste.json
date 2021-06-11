@@ -1,0 +1,13 @@
+{
+  "imagem": "https://cdn.discordapp.com/attachments/538782390492069889/851878007765205052/sdfgs.png",
+  "escolha_1": {
+    "texto_escolha": "Aceitar o cigarro",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "texto_escolha": "Sair correndo",
+    "resultado": 0
+  },
+  "texto_resposta": "Muito bem, você fez Proerd",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/538782390492069889/851937232284811284/423a0cfa-0694-4e7f-a02c-dc9fbdf6564b.jpg"
+}

@@ -1,0 +1,13 @@
+{
+  "imagem": "https://cdn.discordapp.com/attachments/538782390492069889/851913683398950952/ssssssssssssssss.png",
+  "escolha_1": {
+    "texto_escolha": "Nem eu",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "texto_escolha": "Eu sei",
+    "resultado": 0
+  },
+  "texto_resposta": "ufa 😃",
+  "imagem_resposta": ""
+}
