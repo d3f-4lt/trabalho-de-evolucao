@@ -47,6 +47,8 @@ if (count($salas_restantes) > 0) {
   <form action="escolha.php" method="post" id="form">
     <input type="text" name="resposta" value="<?php echo $sala['texto_resposta'] ?>">
     <input type="text" name="imagem" value="<?php echo $sala['imagem_resposta'] ?>">
+    <input type="radio" name="resultado" id="1" value="<?php echo $sala['escolha_1']['resultado'] ?>">
+    <input type="radio" name="resultado" id="2" value="<?php echo $sala['escolha_2']['resultado'] ?>">
     <input type="submit" value="">
   </form>
   <div id="img_div">
@@ -54,11 +56,14 @@ if (count($salas_restantes) > 0) {
       <h2 id="h2_texto_imagem"><?php echo $sala['texto_imagem'] ?></h2>
     <?php endif ?>
     <img src="<?php echo $sala['imagem'] ?>">
-    <a id="reiniciar" href="reiniciar.php">reiniciar</a>
+    <div id="menu">
+      <div class="menu_item"><a id="reiniciar" href="reiniciar.php">reiniciar</a></div>
+      <div class="menu_item"><p id="pontos">pontos: <?php echo $_SESSION['pontos'] ?></p></div>
+    </div>
   </div>
   <div id="escolhas">
     <div class="h2_escolha">
-      <h2 class="h2_escolha"><a class="escolha" href="javascript:void(0)" onclick="document.getElementById('form').submit()">
+      <h2 class="h2_escolha"><a class="escolha" href="javascript:void(0)" onclick="<?php $_SESSION['escolheu'] = 1 ?>document.getElementById('1').checked = true; document.getElementById('form').submit()">
         <?php if (isset($sala['escolha_1']['imagem_escolha']) && !empty($sala['escolha_1']['imagem_escolha'])): ?>
           <img src="<?php echo $sala['escolha_1']['imagem_escolha'] ?>" class="img_escolha">
         <?php endif ?>
@@ -66,7 +71,7 @@ if (count($salas_restantes) > 0) {
       </a></h2>
     </div>
     <div class="h2_escolha">
-      <h2 class="h2_escolha"><a class="escolha" href="javascript:void(0)" onclick="document.getElementById('form').submit()">
+      <h2 class="h2_escolha"><a class="escolha" href="javascript:void(0)" onclick="<?php $_SESSION['escolheu'] = 1 ?>document.getElementById('2').checked = true; document.getElementById('form').submit()">
         <?php if (isset($sala['escolha_2']['imagem_escolha']) && !empty($sala['escolha_2']['imagem_escolha'])): ?>
           <img src="<?php echo $sala['escolha_2']['imagem_escolha'] ?>" class="img_escolha">
         <?php endif ?>

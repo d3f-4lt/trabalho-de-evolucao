@@ -2,7 +2,8 @@
 
 session_start();
 
-unset($_SESSION['salas_restantes']);
+$pontos = $_SESSION['pontos'];
+$maximo_de_pontos = $_SESSION['maximo_de_pontos'];
 
 ?>
 
@@ -15,8 +16,10 @@ unset($_SESSION['salas_restantes']);
   <title>Trabalho de Evolução - Grupo 7</title>
   <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" type="text/css" href="css/animacoes.css">
+  <script type="text/javascript" src="js/index.js"></script>
 </head>
-<body>
-  <h1><a href="index.php">Parabéns, você chegou ao fim da sua jornada.</a></h1>
+<body onload="animar()">
+  <div><h1><a href="javascript:void(0)" onclick="window.location = 'reiniciar.php'">Parabéns, você chegou ao fim da sua jornada.</a></h1></div>
+  <div><h1>Pontuação: <u><?php echo $pontos . ' de ' . $maximo_de_pontos ?></u></h1></div>
 </body>
 </html>

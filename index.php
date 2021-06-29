@@ -6,6 +6,11 @@ if (!isset($_SESSION['ultima_combinação'])) {
   $_SESSION['ultima_combinação'] = 0;
 }
 
+if (!isset($_SESSION['pontos']) || !isset($_SESSION['vida'])) {
+  $_SESSION['pontos'] = 0;
+  $_SESSION['maximo_de_pontos'] = count(glob('salas/*.json'));
+}
+
 ?>
 
 <!DOCTYPE html>

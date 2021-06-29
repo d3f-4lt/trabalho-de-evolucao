@@ -9,7 +9,7 @@ body {
   height: 100vh;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-evenly;
   flex-direction: column;
   color: #fff;
   box-sizing: border-box;
@@ -25,4 +25,8 @@ a {
 
 a:hover {
   text-decoration: underline;
+}
+
+div {
+  opacity: 0;
 }

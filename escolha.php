@@ -2,6 +2,15 @@
 
 session_start();
 
+if (isset($_SESSION['escolheu']) && !empty($_SESSION['escolheu'])) {
+  if ($_SESSION['escolheu'] == 1) {
+    if ($_POST['resultado'] == 0) {
+      $_SESSION['pontos']++;
+    }
+    unset($_SESSION['escolheu']);
+  }
+}
+
 ?>
 
 <!DOCTYPE html>
