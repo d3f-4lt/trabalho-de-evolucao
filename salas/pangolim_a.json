@@ -1,0 +1,16 @@
+{
+  "texto_imagem": "O Pangolim, segundo a árvore filogenética, é parente mais próximo dos <u>Tatus</u> ou dos <u>Gatos</u>?",
+  "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/859220512860536872/EYeDt6PWoAE5Zcz.png",
+  "escolha_1": {
+    "imagem_escolha": "https://cdn.discordapp.com/attachments/852686935762927646/859225292018548826/1200px-Nine-banded_Armadillo.png",
+    "texto_escolha": "Tatus",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "imagem_escolha": "https://cdn.discordapp.com/attachments/852686935762927646/859222730913742848/ecd032e1-03ed-4317-a479-5157eaa3002b.png",
+    "texto_escolha": "Gatos",
+    "resultado": 0
+  },
+  "texto_resposta": "Segundo o cladograma das relações evolutivas dos mamíferos com base nos caracteres  genéticos das espécies, os Pangolins (ordem Pholidota) se encontram mais perto dos Gatos (Ordem Carnivora) do que dos Tatus (ordem Xenarthra), apesar de apresentarem características que se assemelham a de um tatu.",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/859478331828076594/pangolim.png"
+}

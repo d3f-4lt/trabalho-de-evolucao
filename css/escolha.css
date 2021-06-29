@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #000;
+  background-color: #4aa33b;
   width: 100%;
   height: 100vh;
   display: flex;
@@ -38,6 +38,7 @@ a {
   align-items: center;
   justify-content: center;
   padding: 1%;
+  text-align: justify;
 }
 
 #resposta {
@@ -63,4 +64,8 @@ img {
 
 #form {
   display: none;
+}
+
+div {
+  opacity: 0;
 }

@@ -4,7 +4,7 @@
 }
 
 body {
-  background-color: #000;
+  background-color: #4aa33b;
   width: 100%;
   height: 100vh;
   display: flex;
@@ -12,11 +12,15 @@ body {
   justify-content: space-around;
   flex-direction: column;
   color: #fff;
+  box-sizing: border-box;
+  border: 1px solid #fff;
 }
 
 a {
   color: #fff;
   text-decoration: none;
+  animation: aparecer forwards .5s;
+  opacity: 0;
 }
 
 a:hover {

@@ -1,0 +1,12 @@
+@keyframes aparecer {
+	from {
+		opacity: 0;
+	}
+	to {
+		opacity: 1;
+	}
+}
+
+.animar {
+  animation: aparecer .2s forwards;
+}
