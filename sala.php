@@ -55,7 +55,9 @@ if (count($salas_restantes) > 0) {
     <?php if (isset($sala['texto_imagem']) && !empty($sala['texto_imagem'])): ?>
       <h2 id="h2_texto_imagem"><?php echo $sala['texto_imagem'] ?></h2>
     <?php endif ?>
-    <img src="<?php echo $sala['imagem'] ?>">
+    <?php if (isset($sala['imagem']) && !empty($sala['imagem'])): ?>
+      <img src="<?php echo $sala['imagem'] ?>">
+    <?php endif ?>
     <div id="menu">
       <div class="menu_item"><a id="reiniciar" href="reiniciar.php">reiniciar</a></div>
       <div class="menu_item"><p id="pontos">pontos: <?php echo $_SESSION['pontos'] ?></p></div>

@@ -1,0 +1,16 @@
+{
+  "texto_imagem": "Orcas são consideradas baleias.",
+  "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/860178568554610738/ddfd3662-725c-4d1b-bb85-f49fd5af4bfb.png",
+  "escolha_1": {
+    "imagem_escolha": "",
+    "texto_escolha": "Verdadeiro",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "imagem_escolha": "",
+    "texto_escolha": "Falso",
+    "resultado": 0
+  },
+  "texto_resposta": "As orcas são Odontocetos, ou seja, cetáceos que possuem dentes, já as baleias, Misticetos, apresentam apenas cerdas compridas ao em vez de dentes. Apesar de as orcas e as baleias serem da mesma ordem (Cetácea), pertencem a famílias diferentes, orcas são da Dolphinidae, junto com os golfinhos.",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860178767745646642/e8c064b1-357d-4ba8-9c00-9dd005689e48.png"
+}

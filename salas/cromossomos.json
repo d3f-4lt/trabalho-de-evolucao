@@ -1,0 +1,16 @@
+{
+  "texto_imagem": "As únicas variações possíveis em cromossomos sexuais são XX ou XY.",
+  "imagem": "",
+  "escolha_1": {
+    "imagem_escolha": "",
+    "texto_escolha": "Verdadeiro",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "imagem_escolha": "",
+    "texto_escolha": "Falso",
+    "resultado": 0
+  },
+  "texto_resposta": "Aproximadamente 1,7% da população mundial é composta por pessoas intersex que podem ter diferentes tipos de cromossomos. Exemplo: XXY para quem possui a síndrome de Kleinefelter, apenas X para síndrome de Turner, entre outros.",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860341627339407370/unknown.png"
+}

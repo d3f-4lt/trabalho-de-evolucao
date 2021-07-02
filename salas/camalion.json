@@ -1,0 +1,16 @@
+{
+  "texto_imagem": "É correto afirmar que  os camaleões mudam de cor para se camuflarem?",
+  "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/859569808597188608/CamaleC3A3o.png",
+  "escolha_1": {
+    "imagem_escolha": "",
+    "texto_escolha": "Verdadeiro",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "imagem_escolha": "",
+    "texto_escolha": "Falso",
+    "resultado": 0
+  },
+  "texto_resposta": "Eles na verdade mudam as cores tanto como uma característica para o acasalamento quanto para regularem a temperatura do corpo. Ele não reconhece e assume a cor do que está em volta. As células refletem as cores.",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/851958697580167259/859598120535326760/rango.png"
+}

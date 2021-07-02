@@ -1,0 +1,16 @@
+{
+  "texto_imagem": "Escorpiões são aracnídeos.",
+  "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/860344787173113866/escorpiao-amarelo-boas-praticas-de-prevencao-e-controle_538x358.png",
+  "escolha_1": {
+    "imagem_escolha": "",
+    "texto_escolha": "Verdadeiro",
+    "resultado": 0
+  },
+  "escolha_2": {
+    "imagem_escolha": "",
+    "texto_escolha": "Falso",
+    "resultado": 1
+  },
+  "texto_resposta": "Os escorpiões são artrópodes pertencentes a classe Arachnida junto das aranhas, opiliões, carrapatos e ácaros.",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860344820925071410/b8732ec5-a3c7-4f81-a5a3-7ae42c53066f.png"
+}
