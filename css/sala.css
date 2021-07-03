@@ -109,13 +109,14 @@ img {
   display: none;
 }
 
-.img_escolha: {
+.img_escolha {
   width: auto;
   height: 100%;
 }
 
 #h2_texto_imagem {
   padding: 10px;
+  max-width: 80%;
 }
 
 div {

@@ -38,7 +38,11 @@ if (count($salas_restantes) > 0) {
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Trabalho de Evolução - Grupo 7</title>
+  <?php if (isset($sala['titulo']) && !empty($sala['titulo'])): ?>
+    <title><?php echo $sala['titulo'] ?></title>
+  <?php else: ?>
+    <title>Trabalho de Evolução - Grupo 7</title>
+  <?php endif ?>
   <link rel="stylesheet" href="css/sala.css">
   <link rel="stylesheet" type="text/css" href="css/animacoes.css">
   <script type="text/javascript" src="js/index.js"></script>
@@ -49,6 +53,9 @@ if (count($salas_restantes) > 0) {
     <input type="text" name="imagem" value="<?php echo $sala['imagem_resposta'] ?>">
     <input type="radio" name="resultado" id="1" value="<?php echo $sala['escolha_1']['resultado'] ?>">
     <input type="radio" name="resultado" id="2" value="<?php echo $sala['escolha_2']['resultado'] ?>">
+    <?php if (isset($sala['titulo']) && !empty($sala['titulo'])): ?>
+      <input type="text" name="titulo" id="titulo" value="<?php echo $sala['titulo'] ?>">
+    <?php endif ?>
     <input type="submit" value="">
   </form>
   <div id="img_div">

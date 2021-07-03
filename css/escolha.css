@@ -27,6 +27,7 @@ a {
   align-items: center;
   justify-content: center;
   padding: 2%;
+  overflow: hidden;
 }
 
 #texto {
@@ -43,6 +44,7 @@ a {
 
 #resposta {
   text-decoration: none;
+  max-width: 90%;
 }
 
 #resposta:hover {
@@ -58,8 +60,10 @@ h2 {
 }
 
 img {
+  max-width: max-content;
+  max-height: max-content;
   width: auto;
-  height: 100%;
+  height: auto;
 }
 
 #form {
