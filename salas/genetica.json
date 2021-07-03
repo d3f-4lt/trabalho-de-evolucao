@@ -1,0 +1,16 @@
+{
+  "texto_imagem": "As mutações sendo fonte de variabilidade genética ocorrem continuamente com propostas de adaptar o indivíduo ao ambiente.",
+  "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/860676684570820629/depositphotos_257676046-stock-photo-3d-illustration-virus-dna-molecule.png",
+  "escolha_1": {
+    "imagem_escolha": "",
+    "texto_escolha": "Verdadeiro",
+    "resultado": 1
+  },
+  "escolha_2": {
+    "imagem_escolha": "",
+    "texto_escolha": "Falso",
+    "resultado": 0
+  },
+  "texto_resposta": "Falso. As mutações são eventos aleatórios, não ocorrem para adaptar o indivíduo ao meio.",
+  "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860676979530137630/MutaC3A7C3A3o.png"
+}
