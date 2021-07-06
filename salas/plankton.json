@@ -1,5 +1,5 @@
 {
-  "titulo": "Bob Esponja",
+  "titulo": "",
   "texto_imagem": "Zooplâncton é um conjunto de organismos aquáticos autotróficos que vivem na água de rios, lagoas ou oceanos.",
   "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/860350994449039361/4f893f2ce795a3b3bd23b72a24e3f7d8.jpg",
   "escolha_1": {
@@ -12,6 +12,6 @@
     "texto_escolha": "Falso",
     "resultado": 0
   },
-  "texto_resposta": "Eles são seres heterotróficos. São protozoários, como pequenos crustáceos, moluscos e larvas, por isso não conseguem sintetizar seu próprio alimento.",
+  "texto_resposta": "<u>Falso.</u><br><br>Eles são seres heterotróficos. São protozoários, como pequenos crustáceos, moluscos e larvas, por isso não conseguem sintetizar seu próprio alimento.",
   "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860342963427475466/22cfc5fb-f26e-478f-b164-bea9bc33ac28.png"
 }

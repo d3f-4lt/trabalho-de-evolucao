@@ -1,5 +1,5 @@
 {
-  "titulo": "Cobra",
+  "titulo": "",
   "texto_imagem": "A cobra é peçonhenta ou venenosa?",
   "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/860672844325191710/csm_cobraverde_7b873a416d.png",
   "escolha_1": {
@@ -12,6 +12,6 @@
     "texto_escolha": "Venenosa",
     "resultado": 1
   },
-  "texto_resposta": "Animais peçonhentos, como as cobras, injetam seu coquetel tóxico ferindo outros animais quase sempre através de presas. Por outro lado, criaturas venenosas minsitram suas secreções passivamente, normalmente através da pele, quando outras criaturas as tocam ou as ingerem.",
+  "texto_resposta": "<u>Peçonhenta.</u><br><br>Animais peçonhentos, como as cobras, injetam seu coquetel tóxico ferindo outros animais quase sempre através de presas. Por outro lado, criaturas venenosas minsitram suas secreções passivamente, normalmente através da pele, quando outras criaturas as tocam ou as ingerem.",
   "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860675767825596416/unknown.png"
 }

@@ -1,6 +1,6 @@
 {
   "titulo": "Desmistificando a evolução",
-  "texto_imagem": "Humanos são descendentes de macacos.",
+  "texto_imagem": "<u>Desmistificando a evolução:</u><br>Humanos são descendentes de macacos.",
   "imagem": "",
   "escolha_1": {
     "imagem_escolha": "",
@@ -12,6 +12,6 @@
     "texto_escolha": "Falso",
     "resultado": 0
   },
-  "texto_resposta": "A evolução postula que toda a vida na Terra tem ancestrais comuns. A descendência com modificação significa que os humanos são uma espécie única, e também que compartilhamos muitas características com outras espécies. Humanos compartilham de 90% a 99% de identidade na sequência do DNA com outros primatas.",
+  "texto_resposta": "<u>Falso.</u><br><br>A evolução postula que toda a vida na Terra tem ancestrais comuns. A descendência com modificação significa que os humanos são uma espécie única, e também que compartilhamos muitas características com outras espécies. Humanos compartilham de 90% a 99% de identidade na sequência do DNA com outros primatas.",
   "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860684057151275008/Slide_4.jpg"
 }

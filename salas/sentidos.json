@@ -1,6 +1,6 @@
 {
-  "titulo": "Sentidos",
-  "texto_imagem": "Quantos sentidos nosso corpo humano tem?",
+  "titulo": "Os sentidos humanos",
+  "texto_imagem": "<u>Os sentidos humanos:</u><br>Quantos sentidos nosso corpo humano tem?",
   "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/860342176193445918/f181b312649198ab5dcffc736676ca7c.png",
   "escolha_1": {
     "imagem_escolha": "",
@@ -13,6 +13,6 @@
     "resultado": 1
   },
   
-  "texto_resposta": "Tato, olfato, visão, audição, paladar. O clássico quinteto existe, mas você já ouviu falar em propiocepção? É nossa capacidade de saber onde está cada parte do corpo, sem precisar ver ou tocar. Dor e temperatura, outros sentidos óbvios, ficam na pele, mas não tem nada a ver com tato. Equilíbrio fica na orelha interna, mas não é audição. Você também tem sensores diferentes para notar que o pulmão, bexiga, estômago e intestinos estão cheios e percebe quando seu sangue está com pouco oxigênio, quando prende a respiração. Podemos chamar nossa percepção da passagem do tempo, sem nenhum órgão associado a ela, de sentido? No fim das contas, há quem fale em mais de 20 sentidos.",
+  "texto_resposta": "<u>Mais de 20.</u><br><br>Tato, olfato, visão, audição, paladar. O clássico quinteto existe, mas você já ouviu falar em propiocepção? É nossa capacidade de saber onde está cada parte do corpo, sem precisar ver ou tocar. Dor e temperatura, outros sentidos óbvios, ficam na pele, mas não tem nada a ver com tato. Equilíbrio fica na orelha interna, mas não é audição. Você também tem sensores diferentes para notar que o pulmão, bexiga, estômago e intestinos estão cheios e percebe quando seu sangue está com pouco oxigênio, quando prende a respiração. Podemos chamar nossa percepção da passagem do tempo, sem nenhum órgão associado a ela, de sentido? No fim das contas, há quem fale em mais de 20 sentidos.",
   "imagem_resposta": ""
 }

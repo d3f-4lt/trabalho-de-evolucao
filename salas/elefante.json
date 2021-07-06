@@ -1,6 +1,6 @@
 {
-  "titulo": "Elefante",
-  "texto_imagem": "O animal abaixo 👇 segundo a árvore filogenética, está mais perto dos <u>ratos</u> ou dos <u>elefantes</u>?",
+  "titulo": "Relações evolucionárias surpreendentes",
+  "texto_imagem": "<u>Relações evolucionárias surpreendentes:</u><br>O animal abaixo segundo a árvore filogenética, está mais perto dos ratos ou dos elefantes?",
   "imagem": "https://cdn.discordapp.com/attachments/852686935762927646/859213673972629504/a82ea713-069b-434e-98ae-b1a70a634649.png",
   "escolha_1": {
     "imagem_escolha": "https://cdn.discordapp.com/attachments/852686935762927646/859216703682117663/7a75c6f9-deb9-42b6-8e6a-b82e53397f03.png",
@@ -13,6 +13,6 @@
     "resultado": 1
   },
   
-  "texto_resposta": "Apesar da aparência, o damão-do-cabo (<i>Procavia capensis</i>) pertence a ordem Hyracoidea, estando mais perto do Elefante-africano (ordem Proboscidea) do que dos ratos (ordem Rodentia) na árvore das relações evolutivas dos mamíferos.",
+  "texto_resposta": "<u>Elefantes.</u><br><br>Apesar da aparência, o damão-do-cabo (Procavia capensis) pertence a ordem Hyracoidea, estando mais perto do Elefante-africano (ordem Proboscidea) do que dos ratos (ordem Rodentia) na árvore das relações evolutivas dos mamíferos.",
   "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/859215303535624242/hyracoidea.png"
 }

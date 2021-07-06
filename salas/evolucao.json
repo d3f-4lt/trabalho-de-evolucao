@@ -1,6 +1,6 @@
 {
   "titulo": "Desmistificando a evolução",
-  "texto_imagem": "A sobrevivência do mais apto / lei do mais forte é uma descrição precisa da seleção natural de Darwin.",
+  "texto_imagem": "<u>Desmistificando a evolução:</u><br>A sobrevivência do mais apto / lei do mais forte é uma descrição precisa da seleção natural de Darwin.",
   "imagem": "",
   "escolha_1": {
     "imagem_escolha": "",
@@ -12,6 +12,6 @@
     "texto_escolha": "Falso",
     "resultado": 0
   },
-  "texto_resposta": "Organismos “aptos” vivem e prosperam até passarem seu material genético para a próxima geração. Essa aptidão depende da reprodução e de garantir a sobrevivência da população, e não da força, velocidade ou tamanho.",
+  "texto_resposta": "<u>Falso.</u><br><br>Organismos “aptos” vivem e prosperam até passarem seu material genético para a próxima geração. Essa aptidão depende da reprodução e de garantir a sobrevivência da população, e não da força, velocidade ou tamanho.",
   "imagem_resposta": "https://cdn.discordapp.com/attachments/852686935762927646/860682683452358676/Slide_3.jpg"
 }
